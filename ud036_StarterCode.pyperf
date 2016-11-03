@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>560abe20-b40b-4c05-8ca1-2764749c23a8</TargetProject>
+    <FriendlyName>ud036_StarterCode</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>
